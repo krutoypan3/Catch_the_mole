@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="error">#BA3038</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#6b7b8c</color>
+    <color name="sea">#077b8a</color>
+    <color name="sea50">#CC446EAE</color>
+    <color name="button_color">#96446EAE</color>
+    <color name="brown">#FE0C3058</color>
+    <color name="gold">#FFFFFF</color>  <!-- Основной цвет текста в приложении -->
+    <!-- Основной цвет текста в приложении -->
+    <color name="coal">#3b4d61</color>
+    <color name="arkt_iva">#95998e</color>
+    <color name="primary_btn">#3440EB</color>
+    <color name="green">#00AE03</color>
+    <color name="update_btn">@color/sea</color>
+</resources>
